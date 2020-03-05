@@ -1,0 +1,10 @@
+{
+  "name": "diez-glitch-sample",
+  "version": "1.0.0",
+  "repository": "git@github.com:roperzh/diez-glitch-sample.git",
+  "author": "Roberto Dip <dip.jesusr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd design-language && npm run demo"
+  }
+}

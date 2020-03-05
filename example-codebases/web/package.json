@@ -7,7 +7,7 @@
     "build": "webpack --mode production"
   },
   "dependencies": {
-    "diez-diez-glitch-sample": "link:../../design-language/build/diez-diez-glitch-sample-web",
+    "diez-diez-glitch-sample": "file:../../design-language/build/diez-diez-glitch-sample-web",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
